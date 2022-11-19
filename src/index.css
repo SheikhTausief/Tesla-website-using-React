@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/***************************Now-the-real-shit-start*****************************/
+table{
+  border:20px solid red;
+  /* border-style: ; */
+  background-color: aqua;
+}
